@@ -1,0 +1,8 @@
+.primaryButton {
+    background-color: rgb(15, 148, 15);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
